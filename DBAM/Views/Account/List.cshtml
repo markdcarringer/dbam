@@ -1,0 +1,15 @@
+﻿@model IEnumerable<Account>
+
+@foreach(var a in Model)
+{
+    <div>
+        <h3>@a.Name #@a.EmpNumber</h3>
+        <ul>
+            @foreach (var s in @a.Roles)
+            {
+                <li>@s</li>
+            }
+        </ul>
+        Org Sec: @a.OrgSecurity
+    </div>
+}

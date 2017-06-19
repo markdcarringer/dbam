@@ -1,0 +1,9 @@
+C:\Users\carringermd\Documents\Visual Studio 2017\Projects\DBAM\DBAM\bin\Debug\netcoreapp1.1\DBAM.deps.json
+C:\Users\carringermd\Documents\Visual Studio 2017\Projects\DBAM\DBAM\bin\Debug\netcoreapp1.1\DBAM.runtimeconfig.json
+C:\Users\carringermd\Documents\Visual Studio 2017\Projects\DBAM\DBAM\bin\Debug\netcoreapp1.1\DBAM.runtimeconfig.dev.json
+C:\Users\carringermd\Documents\Visual Studio 2017\Projects\DBAM\DBAM\bin\Debug\netcoreapp1.1\DBAM.dll
+C:\Users\carringermd\Documents\Visual Studio 2017\Projects\DBAM\DBAM\bin\Debug\netcoreapp1.1\DBAM.pdb
+C:\Users\carringermd\Documents\Visual Studio 2017\Projects\DBAM\DBAM\obj\Debug\netcoreapp1.1\DBAM.csprojResolveAssemblyReference.cache
+C:\Users\carringermd\Documents\Visual Studio 2017\Projects\DBAM\DBAM\obj\Debug\netcoreapp1.1\DBAM.AssemblyInfo.cs
+C:\Users\carringermd\Documents\Visual Studio 2017\Projects\DBAM\DBAM\obj\Debug\netcoreapp1.1\DBAM.dll
+C:\Users\carringermd\Documents\Visual Studio 2017\Projects\DBAM\DBAM\obj\Debug\netcoreapp1.1\DBAM.pdb
